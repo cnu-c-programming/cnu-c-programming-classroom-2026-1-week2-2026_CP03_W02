@@ -2,7 +2,7 @@
 
 int main()
 {
-    
+     
     int var1 = 100;
     printf("int : %d\n", var1);
     printf("hex : %x\n", var1);

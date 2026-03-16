@@ -2,7 +2,7 @@
 
 int main()
 {
-    
+     
     int age;
     char grade;
     float gpa;
