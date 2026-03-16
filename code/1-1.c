@@ -2,6 +2,7 @@
 
 int main()
 {
+    
     int var1 = 100;
     printf("int : %d\n", var1);
     printf("hex : %x\n", var1);
@@ -18,3 +19,4 @@ int main()
     printf("exp : %e\n", var4);
     return 0;
 }
+    

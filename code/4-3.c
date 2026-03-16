@@ -14,5 +14,6 @@ int main()
     printf("true");
     label:
     return 0;
+    
 }
 

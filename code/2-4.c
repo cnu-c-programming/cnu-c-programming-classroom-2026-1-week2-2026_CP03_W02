@@ -18,5 +18,6 @@ int main()
     printf("c == d is %d\n", c == d);
 
     return 0;
+    
 }
 
